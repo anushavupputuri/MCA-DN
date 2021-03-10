@@ -1,2 +1,2 @@
 # MCA-DN
-Supplementary Files of Multi-path Attention Assisted Deep Network for Ischemic Lesion Segmentation
+Supplementary Files of Multi-path Convolution leveraged Attention Deep Network for Ischemic Lesion Segmentation
